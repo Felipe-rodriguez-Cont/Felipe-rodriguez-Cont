@@ -1,16 +1,46 @@
-### Hi there 👋
+## Hola, Soy Felipe Rodriguez 👋
 
-<!--
-**Felipe-rodriguez-Cont/Felipe-rodriguez-Cont** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Ingeniero en informatica y desarrollador junior backend 👩🏾‍💻
+### Actualmente en busqueda activa de trabajo ❕
 
-Here are some ideas to get you started:
+#### Actualmente y en son que el tiempo me permite me dedico a:
+* Reforzar conocimientos sobre stack tecnocologico Python y nuevas tecnologias.
+* Realizar proyecto FullStack ERP con Python & Django.
+* Afianzar y Profundizar en patrones de diseño y metodologias de desarrollo.
+* 
+* 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+_______________________________________________________________________________________________________________________________________________________________________
+
+### Programming languages
+
+Python, Php, SQL, JavaScript
+
+________________________
+
+### Backend Development
+
+JavaScript, Python, Php
+
+______________________
+
+### Database
+
+MySql
+
+_______________________
+
+### Others
+
+Git, Github
+
+_______________________
+
+## ¿Hablamos?☕️
+
+[Linkedin](https://www.linkedin.com/in/felipe-rodriguez-contreras-8490861a3/)
+
+
+
+  
+
