@@ -40,6 +40,8 @@ _______________________
 
 [Linkedin](https://www.linkedin.com/in/felipe-rodriguez-contreras-8490861a3/)
 
+Correo: felipehugo.1234@gmail.com
+
 
 
   
