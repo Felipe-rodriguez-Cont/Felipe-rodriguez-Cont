@@ -7,8 +7,8 @@
 * Reforzar conocimientos sobre stack tecnocologico Python y nuevas tecnologias.
 * Realizar proyecto FullStack ERP con Python & Django.
 * Afianzar y Profundizar en patrones de diseño y metodologias de desarrollo.
-* 
-* 
+* Automatizar procesos web para mejorar la eficencia y eficacia de las labores diarias.
+
 
 _______________________________________________________________________________________________________________________________________________________________________
 
@@ -32,7 +32,7 @@ _______________________
 
 ### Others
 
-Git, Github
+Git, Github, Power-Bi
 
 _______________________
 
